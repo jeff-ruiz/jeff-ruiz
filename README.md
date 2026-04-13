@@ -1,6 +1,3 @@
-<!--
-**jeff-ruiz/jeff-ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hey, I'm Jeff 👋
 
 **Product Manager** | AI in Regulated Spaces | 0->1
@@ -23,8 +20,11 @@
 ->
 🚀 Startups in Silicon Alley (0->1)
 
-The through-line: implementing elegant systems in high stakes environments. My approach aligns with the Japanese embodiment of hospitality, *omotenashi*, anticipating people's needs before they realize they're needed. That idea runs through everything I build.
+The through-line: implementing systems in high stakes environments. My approach aligns with the Japanese embodiment of hospitality, *omotenashi*, anticipating people's needs before they realize they're needed. That idea runs through everything I build.
 
 ## Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/jeffruiz)
+
+<!--
+**jeff-ruiz/jeff-ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
